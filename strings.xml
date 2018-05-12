@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Single Screen App</string>
+    <string name="text1">Unicorns are good at math</string>
+    <string name="text2">I can help you be a unicorn</string>
+    <string name="text3">Or just get grades like one\!</string>
+    <string name="businessName">Jaimie\'s Math Tutoring</string>
+    <string name="address">1234 Made Up Lane</string>
+    <string name="phone">(801) 555–5555</string>
+    <string name="imageDescription">Unicorn Image</string>
+</resources>
